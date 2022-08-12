@@ -1,0 +1,135 @@
+body{
+  color:#40514E;
+  background-color: #FCF8E8;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+.top-container{
+    background-color: #CEE5D0 ;
+  margin: 0;
+  text-align: center;
+
+}
+.mypic{
+  width: 20%;
+  border-radius: 70%;
+}
+div{
+
+   margin:0;
+}
+h1{
+
+  font-size: 5.625rem;
+  margin:0;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF
+}
+p{
+  line-height: 2;
+}
+span{
+  text-decoration: underline;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  font-size: 2rem;
+  font-weight:600;
+  margin:0;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+a{
+    color: #11999E;
+    margin:10px 20px;
+      font-family: 'Montserrat', sans-serif;
+      text-decoration: none;
+      }
+a:hover{
+  color:#EAF6F6;
+}
+.middle-container{
+  margin: 100px 0;
+}
+.mountain{
+  margin:auto;
+  width: 40%;
+}
+.bottomcloud{
+  position:relative;
+  right: 100px;
+  bottom:300px;
+}
+.topcloud{
+  position: relative;
+  left:300px;
+  top:50px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+
+}
+.computer{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.poem{
+    width: 25%;
+      float:right;
+      margin-left: 30px;
+}
+hr{
+  border:none;
+  border-top-style:  dotted;
+  border-color:#EAF6F6 ;
+  border-width: 6px;
+  width:4%;
+  margin: 70px auto;
+}
+.bottom-container{
+    background-color: #CEE5D0;
+}
+.footer-link{
+   color: #11999E;
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin-top: 90px;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+.contact-me{
+  margin-top: 50px;
+  margin-bottom: 70px;
+}
+.contactmessage{
+  width:40%;
+  margin: 40px auto 60px;
+}
+.copyright{
+    color:#EAF6F6;
+    font-size: 0.75rem;
+}
